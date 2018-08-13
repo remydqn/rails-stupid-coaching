@@ -1,0 +1,22 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.wrapper{
+  background-image: url("https://i.pinimg.com/originals/1e/6f/d7/1e6fd7ee83f9968b0c6eed625eb5ef11.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-color: black;
+  text-align: center;
+  color: white;
+  background-position: center;
+  // display: flex;
+  // justify-item : center;
+}
+
+.return {
+  color: white;
+  font-weight: bold;
+
+}
